@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{21FEF2D0-9CF1-4ADC-9FCD-6FAD6712CEEB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieSearch/MovieSearch.iOS/Controllers/MovieController.cs">
+    <Files>
+      <File FileName="MovieSearch/MovieSearch.iOS/Controllers/MovieController.cs" Line="169" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MovieSearch.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>
